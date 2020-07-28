@@ -1,0 +1,30 @@
+/*
+Theme Name: Theme Portfolio
+Author: Chris
+Author URI: http://www.chris.com
+Description: Mon portfolio
+Version: 1.0
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+*/
+
+/* style.css*/
+
+.m-down {
+	margin-bottom: 2em;
+}
+.m-up {
+	margin-top: 2em;
+}
+.menu-item {
+	margin-right: 1em;
+}
+.title-link {
+	text-decoration: none;
+}
+.title-link:hover {
+	text-decoration: none;
+}
+li {
+	list-style: none;
+}
